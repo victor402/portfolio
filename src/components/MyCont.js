@@ -36,10 +36,15 @@ const MyCont = () => {
         <h4>
           <FaGithub
             size={20}
-            style={{ color: "white", marginRight: "5rem", marginLeft: "5rem" }}
+            style={{
+              color: "white",
+              marginRight: "4rem",
+              marginLeft: "5rem",
+            }}
           />
-          github/victor402
+          {/* Github/victor402 */}
         </h4>
+        <h4 className="git">Github/victor402</h4>
       </div>
     </div>
   );

@@ -26,7 +26,14 @@
 .github {
   text-align: center;
   padding-top: 20px;
+  display: flex;
+  justify-content: center;
 }
+.git h4 {
+  margin-left: 200px;
+  text-align: center;
+}
+
 .github h4 {
   margin-right: 10px;
 }
