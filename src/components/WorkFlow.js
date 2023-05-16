@@ -12,7 +12,10 @@ const WorkFlow = (props) => {
         <p>{props.text}</p>
         <div className="pro-btn">
           <NavLink to={props.view} className="btn">
-            View site
+            SITE
+          </NavLink>
+          <NavLink to={props.github} className="btn">
+            GITHUB
           </NavLink>
         </div>
       </div>
