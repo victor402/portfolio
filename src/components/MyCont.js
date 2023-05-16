@@ -27,7 +27,11 @@ const MyCont = () => {
         <h4>
           <FaLinkedin
             size={20}
-            style={{ color: "white", marginRight: "2rem", marginLeft: "5rem" }}
+            style={{
+              color: "white",
+              marginRight: "2rem",
+              marginLeft: "5rem",
+            }}
           />
           Linkedin/Victor Anagha
         </h4>
@@ -38,8 +42,8 @@ const MyCont = () => {
             size={20}
             style={{
               color: "white",
-              marginRight: "4rem",
-              marginLeft: "5rem",
+              marginRight: "0rem",
+              // marginLeft: "5rem",
             }}
           />
           {/* Github/victor402 */}
